@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mvc" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../source/ru" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
