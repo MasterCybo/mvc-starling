@@ -1,6 +1,3 @@
-/**
- * Copyright (c) 2015 SmartHead. All rights reserved.
- */
 package ru.arslanov.starling.mvc
 {
 	import ru.arslanov.starling.mvc.context.Context;

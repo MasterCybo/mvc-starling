@@ -1,6 +1,3 @@
-/**
- * Copyright (c) 2015 Artem Arslanov. All rights reserved.
- */
 package ru.arslanov.starling.mvc.interfaces
 {
 	import flash.events.Event;
